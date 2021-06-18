@@ -1,11 +1,9 @@
 ---
 layout: page
-title: OTML2021 Home
-description: Optimal Transport workshop bringing together key recent advances in algorithms and puremathematics to approach challenging ML applications.
-background: '/img/bg-index.jpg'
+title:  Optimal Transport and Machine Learning  
+description: NeurIPS 2021 Workshop proposal
+background: '/img/color_transfer.png'
 ---
-
-
 
 Over the last few years, optimal transport (OT) has quickly become a central topic in machine learning. 
 OT is now routinely used in many areas of ML, ranging from the theoretical use of OT flow for controlling learning algorithms to the inference of high-dimensional cell trajectories in genomics. 
@@ -18,3 +16,5 @@ advances in pure mathematics and challenging high-dimensional learning problems.
 
 
 This website in under construction pending acceptance of the workshop.
+
+
