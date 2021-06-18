@@ -1,4 +1,5 @@
-# Optimal Transport and Machine Learning NeurIPS 2021 Workshop
+# Optimal Transport and Machine Learning 
+## NeurIPS 2021 Workshop Proposal
 
 
 Over the last few years, optimal transport (OT) has quickly become a central topic in machine learning. 
@@ -7,4 +8,9 @@ The OTML workshop series has been instrumental in formalizing this research thre
 For this new installment of OTML, we aim even bigger by hosting an exceptional
 keynote speaker, Alessio Figalli, who is the 2018 Fields Medalist for his
 breakthrough in the analysis of the regularity.
-OTML will be a unique opportunity for cross-fertilization between key recent advances in pure mathematics and challenging high-dimensional learning problems.  
+OTML will be a unique opportunity for cross-fertilization between key recent
+advances in pure mathematics and challenging high-dimensional learning problems.
+
+
+This website in under construction pending acceptance of the workshop.
+
