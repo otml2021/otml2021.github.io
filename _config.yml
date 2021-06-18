@@ -1,0 +1,25 @@
+title:              Optimal Transport and Machine Learning OTML2021 
+email:              
+description:        NeurIPS 2021 Workshop Proposal
+author:             OTML2021 Organization team
+baseurl:            "/"
+url:                "https://otml2021.github.io"
+
+# Social Profiles
+twitter_username:   
+github_username:    
+facebook_username:  
+instagram_username:  
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
