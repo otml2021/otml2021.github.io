@@ -5,6 +5,8 @@ description: NeurIPS 2021 Workshop proposal
 background: '/img/color_transfer.jpg'
 ---
 
+Join us for the second edition of the OTML Workshop @ NIPS!
+
 Over the last few years, optimal transport (OT) has quickly become a central topic in machine learning. 
 OT is now routinely used in many areas of ML, ranging from the theoretical use of OT flow for controlling learning algorithms to the inference of high-dimensional cell trajectories in genomics. 
 The OTML workshop series has been instrumental in formalizing this research thread.
