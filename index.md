@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Optimal Transport and Machine Learning  
-description: NeurIPS 2021 Workshop proposal
+description: NeurIPS 2021 Workshop
 background: '/img/color_transfer.jpg'
 ---
 
@@ -21,12 +21,12 @@ The format of the workshop will encourage **discussion** and **presentation of c
 
 ## Invited speakers
 
-### Plenary speakers
+#### Plenary speakers
 - Alessio Figalli (ETH Zurich)
 - Caroline Uhler (MIT)
 - Lénaïc Chizat (EPFL)
 
-### Keynote short talks
+#### Keynote short talks
 - Beatrice Acciaio (ETH Zurich)
 - Pinar Demetci (Brown)
 - Yunan Yang (Courant)
