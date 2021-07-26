@@ -12,5 +12,5 @@ OTML will be a unique opportunity for cross-fertilization between key recent
 advances in pure mathematics and challenging high-dimensional learning problems.
 
 
-This website in under construction pending acceptance of the workshop.
+This website in under construction. The workshop has been accepted for NeurIPS 2021.
 
