@@ -7,7 +7,7 @@ background: '/img/color_transfer.jpg'
 
 ## Join us for the fourth edition of the OTML Workshop @ NeurIPS!
 
-<span style="color:Brown">some *blue* text</span>
+<span style="color:Brown">some *brown* text</span>
 
 Over the last few years, optimal transport (OT) has quickly become a central topic in machine learning. 
 OT is now routinely used in many areas of ML, ranging from the theoretical use of OT flow for controlling learning algorithms to the inference of high-dimensional cell trajectories in genomics. 
