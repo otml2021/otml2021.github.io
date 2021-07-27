@@ -1,5 +1,5 @@
 # Optimal Transport and Machine Learning 
-## NeurIPS 2021 Workshop Proposal
+## NeurIPS 2021 Workshop
 
 
 Over the last few years, optimal transport (OT) has quickly become a central topic in machine learning. 
