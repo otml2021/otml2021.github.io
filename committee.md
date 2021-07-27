@@ -7,13 +7,13 @@ background: '/img/color_transfer.jpg'
 
 ## Organizing committee
 
-- [Jason Altschuler](http://www.mit.edu/~jasonalt/), MIT
-- [Charlotte Bunne](https://www.bunne.ch/), ETH
-- [Laetitia Chapel](https://people.irisa.fr/Laetitia.Chapel/), Université Bretagne-Sud
-- [Marco Cuturi](https://marcocuturi.net/), Google Brain, CREST - ENSAE
-- [Rémi Flamary](https://remi.flamary.com/index.fr.html), Ecole Polytechnique
-- [Gabriel Peyré](http://www.gpeyre.com/), Ecole Normale Supérieure
-- [Alexandra Suvorikova](https://scholar.google.de/citations?user=FTLXftQAAAAJ), Weierstrass Institute for Applied Analysis and Stochastics
+- [Jason Altschuler](http://www.mit.edu/~jasonalt/) (MIT)
+- [Charlotte Bunne](https://www.bunne.ch/) (ETH)
+- [Laetitia Chapel](https://people.irisa.fr/Laetitia.Chapel/) (Université Bretagne-Sud)
+- [Marco Cuturi](https://marcocuturi.net/) (Google Brain, CREST - ENSAE)
+- [Rémi Flamary](https://remi.flamary.com/index.fr.html) (Ecole Polytechnique)
+- [Gabriel Peyré](http://www.gpeyre.com/) (Ecole Normale Supérieure)
+- [Alexandra Suvorikova](https://scholar.google.de/citations?user=FTLXftQAAAAJ) (Weierstrass Institute for Applied Analysis and Stochastics)
 
 ## PC members
 We thank the program committee for shaping the technical program; in alphabetical order:

@@ -22,16 +22,16 @@ The format of the workshop will encourage **discussion** and **presentation of c
 ### Invited speakers
 
 ##### Plenary speakers
-- Alessio Figalli (ETH Zurich)
-- Caroline Uhler (MIT)
-- Lénaïc Chizat (EPFL)
+- [Alessio Figalli](https://people.math.ethz.ch/~afigalli/) (ETH Zurich)
+- [Caroline Uhler](https://www.carolineuhler.com) (MIT)
+- [Lénaïc Chizat](https://lchizat.github.io) (EPFL)
 
-##### Keynote short talks
-- Beatrice Acciaio (ETH Zurich)
-- Pinar Demetci (Brown)
-- Yunan Yang (Courant)
-- Chin-Wei Huang (MILA)
-- Yongxin Chen (Georgia Tech)
+##### Keynote talks
+- [Beatrice Acciaio](https://people.math.ethz.ch/~beacciaio/) (ETH Zurich)
+- [Pinar Demetci](https://pinardemetci.github.io) (Brown)
+- [Yunan Yang](https://cims.nyu.edu/~yy38/) (Courant)
+- [Chin-Wei Huang](https://chinweihuang.com) (MILA)
+- [Yongxin Chen](https://yongxin.ae.gatech.edu) (Georgia Tech)
 
 
 ### Past editions
