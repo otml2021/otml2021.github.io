@@ -5,7 +5,7 @@ description: NeurIPS 2021 Workshop - 13th of December 2021
 background: '/img/color_transfer.jpg'
 ---
 
-## Join us for the fourth edition of the OTML Workshop @ NeurIPS!
+## Join us for the fourth edition of the Virtual OTML Workshop @ NeurIPS!
 
 Over the last few years, **optimal transport** (OT) has quickly become a central topic in
 machine learning. OT is now routinely used in many areas of ML, ranging from the theoretical use of
@@ -19,27 +19,22 @@ between recent advances in pure mathematics and challenging high-dimensional lea
 The format of the workshop will encourage **discussion** and **presentation of contributed content** in addition to our lineup of **invited talks**.
 
 
-## Invited speakers
+### Invited speakers
 
-**Plenary speakers**
+##### Plenary speakers
 - Alessio Figalli (ETH Zurich)
 - Caroline Uhler (MIT)
 - Lénaïc Chizat (EPFL)
 
-**Keynote short talks**
+##### Keynote short talks
 - Beatrice Acciaio (ETH Zurich)
 - Pinar Demetci (Brown)
 - Yunan Yang (Courant)
 - Chin-Wei Huang (MILA)
 - Yongxin Chen (Georgia Tech)
 
-## Organizing committee
 
-Alexandra Suvorikova, Charlotte Bunne, Gabriel Peyré, Jason Altschuler, Laetitia Chapel,
-Marco Cuturi, Rémi Flamary
-
-
-## Past editions
+### Past editions
 - [OTML'19](https://sites.google.com/view/otml2019/home)
 - [OTML'17](http://otml17.marcocuturi.net/)
 - [OTML'14](http://www.iip.ist.i.kyoto-u.ac.jp/OTML2014/doku.php)

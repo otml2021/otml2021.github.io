@@ -5,16 +5,20 @@ description: NeurIPS 2021 Workshop - 13th of December 2021
 background: '/img/color_transfer.jpg'
 ---
 
-### Call for contributions
+## Call for contributions
 
-## Important dates
+We solicit submission of **original research** at the interface between optimal transport theory, statistics, optimization, machine learning and applications. 
+Authors can submit work that overlaps with previously published or submitted work, as long as it adds a new perspective on that work.
+Selected submissions will be presented in spotlight talks. 
+
+### Important dates
 - submission website: *to be released*
 - deadline: Friday, 17 September 2021
 - author notification: Friday, 15 October 2021
 
-## Scope and topics
+### Scope and topics
 
-We solicit submission of **original research** at the interface between optimal transport theory, statistics, optimization, machine learning and applications. Topics of interest to the workshop broadly include
+Topics of interest to the workshop broadly include
 
 ##### Estimation of Optimal Transport Couplings and Maps
 
@@ -48,10 +52,9 @@ We solicit submission of **original research** at the interface between optimal 
 - High-dimensional applications: Natural Language / Word Embeddings, Biology, Vision, etc...
 - Low-dimensional applications: Graphics, shapes, imaging, univariate measures, etc...
 
-Authors can submit work that overlaps with previously published or submitted work, as long as it adds a new perspective on that work.
 
 
-## Style
+### Style
 Authors can submit work that overlaps with previously published or submitted work, as long as it adds a new perspective on that work.
 
 Authors should use the standard Neurips 2021 style files: [https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles)
@@ -62,3 +65,7 @@ All submissions must be processed using the easychair website set up for this wo
 
 We guarantee that all works submitted before September 17, 2021  (23:59 PDT) will be given full consideration and will be reviewed by at least three reviewers.
 
+
+### Fellowships
+
+We provide fellowships which cover workshop registration. Details **to be released**.
