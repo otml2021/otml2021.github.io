@@ -32,3 +32,14 @@ The format of the workshop will encourage **discussion** and **presentation of c
 - Yunan Yang (Courant)
 - Chin-Wei Huang (MILA)
 - Yongxin Chen (Georgia Tech)
+
+## Organizing committee
+
+Alexandra Suvorikova, Charlotte Bunne, Gabriel Peyré, Jason Altschuler, Laetitia Chapel,
+Marco Cuturi, Rémi Flamary
+
+
+## Past editions
+- [OTML'19](https://sites.google.com/view/otml2019/home)
+- [OTML'17](http://otml17.marcocuturi.net/)
+- [OTML'14](http://www.iip.ist.i.kyoto-u.ac.jp/OTML2014/doku.php)
