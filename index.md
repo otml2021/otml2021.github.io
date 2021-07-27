@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Optimal Transport and Machine Learning  
-description: NeurIPS 2021 Workshop - 13th of December 2021
+description: NeurIPS 2021 Workshop - 13 or 14 December 2021
 background: '/img/color_transfer.jpg'
 ---
 
@@ -28,10 +28,10 @@ The format of the workshop will encourage **discussion** and **presentation of c
 
 ##### Keynote talks
 - [Beatrice Acciaio](https://people.math.ethz.ch/~beacciaio/) (ETH Zurich)
-- [Pinar Demetci](https://pinardemetci.github.io) (Brown)
-- [Yunan Yang](https://cims.nyu.edu/~yy38/) (Courant)
 - [Chin-Wei Huang](https://chinweihuang.com) (MILA)
+- [Pinar Demetci](https://pinardemetci.github.io) (Brown)
 - [Yongxin Chen](https://yongxin.ae.gatech.edu) (Georgia Tech)
+- [Yunan Yang](https://cims.nyu.edu/~yy38/) (Courant)
 
 
 ### Past editions
