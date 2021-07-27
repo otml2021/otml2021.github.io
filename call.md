@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Optimal Transport and Machine Learning  
-description: NeurIPS 2021 Workshop - 13th of December 2021
+description: NeurIPS 2021 Workshop - 13 or 14 December 2021
 background: '/img/color_transfer.jpg'
 ---
 
@@ -58,7 +58,7 @@ Topics of interest to the workshop broadly include
 Authors should use the standard Neurips 2021 style files: [https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles).
 The recommended length for submissions is between 6 and 9 pages.
 All submissions must be processed using the easychair website set up for this workshop: [*to be released*](https://otml2021.github.io/).
-We guarantee that all works submitted before September 17, 2021  (23:59 PDT) will be given full consideration and will be reviewed by at least three reviewers.
+We guarantee that all works submitted before September 17, 2021  (23:59 PDT) will be given full consideration and will be reviewed by at least three reviewers. Late submissions might be considered as well.
 
 
 ### Fellowships
