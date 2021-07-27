@@ -5,7 +5,7 @@ description: NeurIPS 2021 Workshop - 13th of December 2021
 background: '/img/color_transfer.jpg'
 ---
 
-### Join us for the fourth edition of the OTML Workshop @ NeurIPS!
+## Join us for the fourth edition of the OTML Workshop @ NeurIPS!
 
 Over the last few years, **optimal transport** (OT) has quickly become a central topic in
 machine learning. OT is now routinely used in many areas of ML, ranging from the theoretical use of
@@ -19,7 +19,7 @@ between recent advances in pure mathematics and challenging high-dimensional lea
 The format of the workshop will encourage **discussion** and **presentation of contributed content** in addition to our lineup of **invited talks**.
 
 
-### Invited speakers
+## Invited speakers
 
 **Plenary speakers**
 - Alessio Figalli (ETH Zurich)
