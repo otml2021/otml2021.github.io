@@ -55,14 +55,9 @@ Topics of interest to the workshop broadly include
 
 
 ### Style
-Authors can submit work that overlaps with previously published or submitted work, as long as it adds a new perspective on that work.
-
 Authors should use the standard Neurips 2021 style files: [https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles)
-
 The recommended length for submissions is between 6 and 9 pages.
-
 All submissions must be processed using the easychair website set up for this workshop: [*to be released*](https://otml2021.github.io/)
-
 We guarantee that all works submitted before September 17, 2021  (23:59 PDT) will be given full consideration and will be reviewed by at least three reviewers.
 
 

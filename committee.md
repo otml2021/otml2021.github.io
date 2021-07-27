@@ -17,9 +17,12 @@ background: '/img/color_transfer.jpg'
 
 ## PC members
 We thank the program committee for shaping the technical program; in alphabetical order:
-**David Alvarez Melis (Microsoft Research),
+
+*David Alvarez Melis (Microsoft Research),
 Enric Boix-Adserà (MIT), Mathieu Blondel (Google Research), Sinho Chewi (MIT), Nicolas Courty
 (Université Bretagne-Sud), Gilles Gasso (INSA Rouen), Patrik Gerber (MIT), Thibaut Le Gouic (MIT),
 Ya-Ping Hsieh (ETH Zurich), Hicham Janati (Ecole Polytechnique), Alain Rakotomamonjy (Criteo
 AI Lab & Univ. Rouen), Ievgen Redko (Université Jean Monnet), Austin Stromme (MIT), Romain
-Tavenard (Universit e Rennes 2), Titouan Vayer (ENS Lyon), Thibault Séjourné (ENS Paris).**
+Tavenard (Universit e Rennes 2), Titouan Vayer (ENS Lyon), Thibault Séjourné (ENS Paris).*
+
+we will ask during submission that the authors propose at least one reviewer.
