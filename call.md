@@ -12,9 +12,13 @@ Authors can submit work that overlaps with previously published or submitted wor
 Selected submissions will be presented in spotlight talks.
 
 ### Important dates
-- [submission website]( https://easychair.org/conferences/?conf=otml2021)
-- deadline: Friday, 17 September 2021
+
+- submission deadline: Friday, 17 September 2021
 - author notification: Friday, 15 October 2021
+
+### Submission website
+
+The submissions must be done using [using the easychair website](https://easychair.org/conferences/?conf=otml2021).
 
 ### Scope and topics
 
@@ -57,7 +61,7 @@ Topics of interest to the workshop broadly include
 ### Style
 Authors should use [the standard Neurips 2021 style files](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles).
 The recommended length for submissions is between 6 and 9 pages.
-All submissions must be processed using [the easychair website set up for this workshop]([submission website]( https://easychair.org/conferences/?conf=otml2021).
+All submissions must be processed using [the easychair website set up for this workshop](https://easychair.org/conferences/?conf=otml2021).
 We guarantee that all works submitted before September 17, 2021  (23:59 PDT) will be given full consideration and will be reviewed by at least three reviewers. Late submissions might be considered as well.
 
 
