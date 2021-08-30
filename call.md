@@ -20,6 +20,7 @@ Selected submissions will be presented in spotlight talks.
 
 
 All submissions must be processed using the [Openreview website](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/OTML).
+The submissions should be anonymized following [NeurIPS policy](https://nips.cc/Conferences/2021/CallForPapers).
 We guarantee that all works submitted before September 17, 2021  (23:59 PDT)
 will be given full consideration and will be reviewed by at least three
 reviewers. Late submissions might be considered as well. Note that at least one
@@ -67,7 +68,8 @@ Topics of interest to the workshop broadly include
 ### Style
 Authors should use [the standard Neurips 2021 style files](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles).
 The recommended length for submissions is between 6 and 9 pages.
-All submissions must be processed using the [Openreview website](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/OTML)..
+All submissions must be processed using the [Openreview website](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/OTML).
+The submissions should be anonymized following [NeurIPS policy](https://nips.cc/Conferences/2021/CallForPapers). 
 We guarantee that all works submitted before September 17, 2021  (23:59 PDT) will be given full consideration and will be reviewed by at least three reviewers. Late submissions might be considered as well.
 
 
