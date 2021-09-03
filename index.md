@@ -38,3 +38,15 @@ The format of the workshop will encourage **discussion** and **presentation of c
 - [OTML'19](https://sites.google.com/view/otml2019/home)
 - [OTML'17](http://otml17.marcocuturi.net/)
 - [OTML'14](http://www.iip.ist.i.kyoto-u.ac.jp/OTML2014/doku.php)
+
+### Partners
+
+<a href="https://ellis.eu/"><img src="img/ellis2.png"
+     alt="Ellis logo"
+     style="float: left; margin-right: 10px;height:100px;" /></a>
+<a href="https://3ia.univ-cotedazur.eu/"><img src="img/3IA.png"
+     alt="3IA Cote d'Azur logo"
+     style="float: left; margin-right: 10px;height:100px;" /></a>
+<a href="https://prairie-institute.fr/"><img src="img/prairie.jpg"
+     alt="Prairir Institute logo"
+     style="float: left; margin-right: 10px;height:100px;" /></a>
