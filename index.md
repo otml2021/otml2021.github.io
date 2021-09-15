@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Optimal Transport and Machine Learning  
-description: NeurIPS 2021 Workshop - 13 or 14 December 2021
+description: NeurIPS 2021 Workshop - 13 December 2021
 background: '/img/color_transfer.jpg'
 ---
 
