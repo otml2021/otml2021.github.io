@@ -11,10 +11,19 @@ We solicit submission of **original research** at the interface between optimal 
 Authors can submit work that overlaps with previously published or submitted work, as long as it adds a new perspective on that work.
 Selected submissions will be presented in spotlight talks.
 
+Note that the workshop will not have proceedings and any work that has been or
+will be submitted to a reviewed Machine learning conference is not considered double
+submission.
+
+
 ### Important dates
 
-- submission deadline: Friday, 17 September 2021
-- author notification: Friday, 15 October 2021
+- Submission deadline: Friday, 17 September 2021
+- **Late submission deadline, 2 October 2021**
+- Author notification: Friday, 15 October 2021
+
+**Warning: due to the late final decisions in the NeurIPS conference we will
+accept late submissions to the workshop up to October 2nd (hard deadline)**
 
 ### Submission website
 
@@ -23,8 +32,8 @@ All submissions must be processed using the [Openreview website](https://openrev
 The submissions should be anonymized following [NeurIPS policy](https://nips.cc/Conferences/2021/CallForPapers).
 We guarantee that all works submitted before September 17, 2021  (23:59 PDT)
 will be given full consideration and will be reviewed by at least three
-reviewers. Late submissions might be considered as well. Note that at least one
-of the co-authors should accept to perform reviews for the OTML Workshop.
+reviewers. Late submissions until October 2nd will be considered but might have fewer reviews.
+Note that at least one of the co-authors should accept to perform reviews for the OTML Workshop.
 
 
 ### Scope and topics
@@ -67,10 +76,16 @@ Topics of interest to the workshop broadly include
 
 ### Style
 Authors should use [the standard Neurips 2021 style files](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles).
-The recommended length for submissions is between 6 and 9 pages.
+The recommended length for submissions is between 6 and 9 pages (main paper
+without references). Note that we will not accept supplementary material but an
+annex/supplementary can be added a the end of the paper and will ot be counted in the pages.
+
 All submissions must be processed using the [Openreview website](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/OTML).
 The submissions should be anonymized following [NeurIPS policy](https://nips.cc/Conferences/2021/CallForPapers). 
-We guarantee that all works submitted before September 17, 2021  (23:59 PDT) will be given full consideration and will be reviewed by at least three reviewers. Late submissions might be considered as well.
+We guarantee that all works submitted before September 17, 2021  (23:59 PDT)
+will be given full consideration and will be reviewed by at least three
+reviewers. Late submissions will be considered as well until October 2nd but
+might have fewer reviews.
 
 
 ### Fellowships

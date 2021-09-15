@@ -25,4 +25,4 @@ Ya-Ping Hsieh (ETH Zurich), Hicham Janati (Ecole Polytechnique), Alain Rakotomam
 AI Lab & Univ. Rouen), Ievgen Redko (Université Jean Monnet), Austin Stromme (MIT), Romain
 Tavenard (Universit e Rennes 2), Titouan Vayer (ENS Lyon), Thibault Séjourné (ENS Paris).*
 
-we will ask during submission that the authors propose at least one reviewer.
+We will ask during submission that the authors propose at least one reviewer.
