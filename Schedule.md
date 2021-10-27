@@ -14,12 +14,12 @@ theoretical advances, innovative efficient numerical solvers and successful appl
 *To be announced*
 
 ## List of accepted papers
-### Orals
+#### Orals
 - Entropic estimation of optimal transport maps - Aram-Alexandre Pooladian, Jonathan Niles-Weed
-- Discrete Schr\"odinger Bridges with Applications to Two-Sample Homogeneity Testing - Zaid Harchaoui, Lang Liu, Soumik Pal
+- Discrete Schrödinger Bridges with Applications to Two-Sample Homogeneity Testing - Zaid Harchaoui, Lang Liu, Soumik Pal
 - Implicit Riemannian Concave Potential Maps - Danilo Jimenez Rezende, Sebastien Racaniere
 
-### Spotlights
+#### Spotlights
 - Optimizing Functionals on the Space of Probabilities with Input Convex Neural Network - David Alvarez-Melis, Yair Schiff, Youssef Mroueh
 - Learning Revenue-Maximizing Auctions With Differentiable Matching - Michael Curry, Uro Cornelius Lyi, Tom Goldstein, John P Dickerson
 - Factored couplings in multi-marginal optimal transport via difference of convex programming - Quang Huy Huy, Hicham Janati, Ievgen Redko, Rémi Flamary, Nicolas Courty
@@ -29,7 +29,7 @@ theoretical advances, innovative efficient numerical solvers and successful appl
 - Linear-Time Gromov Wasserstein Distances using Low Rank Couplings and Costs - Meyer Scetbon, Gabriel Peyré, marco cuturi
 - Faster Unbalanced Optimal Transport: Translation invariant Sinkhorn and 1-D Frank-Wolfe - Thibault Sejourne, François-Xavier Vialard, Gabriel Peyré
 
-### Posters
+#### Posters
 - Optimal Transport losses and Sinkhorn algorithm with general convex regularization - Augusto Gerolin, Simone Di Marino - ORAL/POSTER/POSTER
 - Multistage Monge Kantorovich Problem applied to optimal ecological transition - Clara Macedo Lage, Emmanuel Gobet - POSTER/ORAL/POSTER
 - Measuring association with Wasserstein distances - Johannes Wiesel
