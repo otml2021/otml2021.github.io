@@ -5,7 +5,7 @@ description: NeurIPS 2021 Workshop - 13  December 2021
 background: '/img/color_transfer.jpg'
 ---
 
-## Organizing committee
+## Organizing Committee
 
 - [Jason Altschuler](http://www.mit.edu/~jasonalt/) (MIT)
 - [Charlotte Bunne](https://www.bunne.ch/) (ETH)
@@ -15,11 +15,11 @@ background: '/img/color_transfer.jpg'
 - [Gabriel Peyré](http://www.gpeyre.com/) (Ecole Normale Supérieure)
 - [Alexandra Suvorikova](https://scholar.google.de/citations?user=FTLXftQAAAAJ) (Weierstrass Institute for Applied Analysis and Stochastics)
 
-## PC members
+## Program Committee Members
 We thank the program committee for shaping the technical program; in alphabetical order:
 
 *David Alvarez Melis (Microsoft Research),
-Enric Boix-Adserà (MIT), Mathieu Blondel (Google Research), Sinho Chewi (MIT), Nicolas Courty
+Enric Boix-Adserà (MIT), Sinho Chewi (MIT), Nicolas Courty
 (Université Bretagne-Sud), Gilles Gasso (INSA Rouen), Patrik Gerber (MIT), Thibaut Le Gouic (MIT),
 Ya-Ping Hsieh (ETH Zurich), Hicham Janati (Ecole Polytechnique), Alain Rakotomamonjy (Criteo
 AI Lab & Univ. Rouen), Ievgen Redko (Université Jean Monnet), Austin Stromme (MIT), Romain

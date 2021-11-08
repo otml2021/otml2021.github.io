@@ -19,14 +19,14 @@ between recent advances in pure mathematics and challenging high-dimensional lea
 The format of the workshop will encourage **discussion** and **presentation of contributed content** in addition to our lineup of **invited talks**.
 
 
-### Invited speakers
+### Invited Speakers
 
-##### Plenary speakers
+##### Plenary Speakers
 - [Alessio Figalli](https://people.math.ethz.ch/~afigalli/) (ETH Zurich)
 - [Caroline Uhler](https://www.carolineuhler.com) (MIT)
 - [Lénaïc Chizat](https://lchizat.github.io) (EPFL)
 
-##### Keynote talks
+##### Keynote Talks
 - [Beatrice Acciaio](https://people.math.ethz.ch/~beacciaio/) (ETH Zurich)
 - [Chin-Wei Huang](https://chinweihuang.com) (MILA)
 - [Pinar Demetci](https://pinardemetci.github.io) (Brown)
@@ -34,7 +34,7 @@ The format of the workshop will encourage **discussion** and **presentation of c
 - [Yunan Yang](https://cims.nyu.edu/~yy38/) (Courant)
 
 
-### Past editions
+### Past Editions
 - [OTML'19](https://sites.google.com/view/otml2019/home)
 - [OTML'17](http://otml17.marcocuturi.net/)
 - [OTML'14](http://www.iip.ist.i.kyoto-u.ac.jp/OTML2014/doku.php)
