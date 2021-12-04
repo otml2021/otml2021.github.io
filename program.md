@@ -24,8 +24,8 @@ theoretical advances, innovative efficient numerical solvers and successful appl
 <table class="tg" style="white-space:nowrap;">
 <thead>
   <tr>
-    <th class="tg-0pky"><b>Time</b> (CET) <br> GMT+2</th>
-    <th class="tg-0pky"><b>Time</b> (EST) <br> GMT-4</th>
+    <th class="tg-0pky"><b>Time</b> (CET) <br> GMT+1</th>
+    <th class="tg-0pky"><b>Time</b> (EST) <br> GMT-5</th>
     <th class="tg-0pky"><b>What?</b></th>
     <th class="tg-0pky"><b>Who?</b></th>
     <th class="tg-0pky"></th>
