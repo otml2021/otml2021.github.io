@@ -141,7 +141,7 @@ theoretical advances, innovative efficient numerical solvers and successful appl
     <td class="tg-0pky">20:00 : 20:25</td>
     <td class="tg-0pky">14:00 : 14:25</td>
     <td class="tg-0pky">Keynote Speaker</td>
-    <td class="tg-0pky">Pina Demetci</td>
+    <td class="tg-0pky">Pinar Demetci</td>
     <td class="tg-0pky"><details>
     <summary>TBD</summary>
     <br>
