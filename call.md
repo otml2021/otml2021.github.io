@@ -84,7 +84,3 @@ will be given full consideration and will be reviewed by at least three
 reviewers. Late submissions will be considered as well until October 2nd but
 might have fewer reviews.
 
-
-### Fellowships
-
-We provide fellowships which cover workshop registration. Details **to be released**.
