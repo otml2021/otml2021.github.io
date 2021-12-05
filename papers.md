@@ -12,8 +12,8 @@ background: '/img/color_transfer.jpg'
 - Implicit Riemannian Concave Potential Maps. Danilo Jimenez Rezende, Sebastien Racaniere
 
 #### Spotlights
-- Optimizing Functionals on the Space of Probabilities with Input Convex Neural Network. David Alvarez-Melis, Yair Schiff, Youssef Mroueh
-- Learning Revenue-Maximizing Auctions With Differentiable Matching. Michael Curry, Uro Cornelius Lyi, Tom Goldstein, John P Dickerson
+- [Optimizing Functionals on the Space of Probabilities with Input Convex Neural Network](https://arxiv.org/pdf/2106.00774.pdf). David Alvarez-Melis, Yair Schiff, Youssef Mroueh
+- [Learning Revenue-Maximizing Auctions With Differentiable Matching](https://arxiv.org/pdf/2106.07877.pdf). Michael Curry, Uro Cornelius Lyi, Tom Goldstein, John P Dickerson
 - Factored couplings in multi-marginal optimal transport via difference of convex programming. Quang Huy Huy, Hicham Janati, Ievgen Redko, Rémi Flamary, Nicolas Courty
 - Sinkhorn EM: An Expectation-Maximization algorithm based on entropic optimal transport. Gonzalo E. Mena, Amin Nejatbakhsh, Erdem Varol, Jonathan Niles-Weed
 - Subspace Detours Meet Gromov-Wasserstein. Clément Bonet, Nicolas Courty, Fançois Septier, Lucas Drumetz
@@ -26,8 +26,8 @@ background: '/img/color_transfer.jpg'
 - Multistage Monge Kantorovich Problem applied to optimal ecological transition. Clara Macedo Lage, Emmanuel Gobet.
 - Measuring association with Wasserstein distances. Johannes Wiesel
 - Dual Regularized Optimal Transport. Rishi Sonthalia, Anna Gilbert
-- Towards interpretable contrastive word mover's embedding. Ruijie Jiang, Julia Gouvea, Eric Miller, David Hammer, Shuchin Aeron
-- Efficient estimates of optimal transport via low-dimensional embeddings. Patric Fulop, Vincent Danos
+- [Towards interpretable contrastive word mover's embedding](https://arxiv.org/pdf/2111.01023.pdf). Ruijie Jiang, Julia Gouvea, Eric Miller, David Hammer, Shuchin Aeron
+- [Efficient estimates of optimal transport via low-dimensional embeddings](http://arxiv.org/pdf/2111.04838.pdf). Patric Fulop, Vincent Danos
 - Likelihood Training of Schrödinger Bridges using Forward-Backward SDEs Theory. Tianrong Chen, Guan-Horng Liu, Evangelos Theodorou
 - Wasserstein Adversarially Regularized Graph Autoencoder. Huidong Liang, Junbin Gao
 - Sliced Multi-Marginal Optimal Transport. Samuel Cohen, Alexander Terenin, Yannik Pitcan, Brandon Amos, Marc Peter Deisenroth, K S Sesh Kumar
@@ -38,5 +38,5 @@ background: '/img/color_transfer.jpg'
 - On the complexity of the optimal transport problem with graph-structured cost. Jiaojiao Fan, Isabel Haasler, Johan Karlsson, Yongxin Chen
 - Learning Single-Cell Perturbation Responses using Neural Optimal Transport. Charlotte Bunne, Stefan Stark, Gabriele Gut, Andreas Krause, Gunnar Ratsch, Lucas Pelkmans, Kjong Lehmann
 - Cross-Domain Lossy Compression as Optimal Transport with an Entropy Bottleneck. Huan Liu, George Zhang, Jun Chen, Ashish J. Khisti
-- Gradient flows on graphons: existence, convergence, continuity equations. Sewoong Oh, Soumik Pal, Raghav Somani, Raghav Tripathi
-- Linear Convergence of Batch Greenkhorn for Regularized Multimarginal Optimal Transport. Vladimir R Kostic, Saverio Salzo, Massimiliano Pontil
+- [Gradient flows on graphons: existence, convergence, continuity equations](https://arxiv.org/pdf/2111.09459.pdf). Sewoong Oh, Soumik Pal, Raghav Somani, Raghav Tripathi
+- [Linear Convergence of Batch Greenkhorn for Regularized Multimarginal Optimal Transport](http://arxiv.org/pdf/2112.00838.pdf). Vladimir R Kostic, Saverio Salzo, Massimiliano Pontil
