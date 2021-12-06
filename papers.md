@@ -23,7 +23,7 @@ background: '/img/color_transfer.jpg'
 
 #### Posters
 - Optimal Transport losses and Sinkhorn algorithm with general convex regularization. Augusto Gerolin, Simone Di Marino.
-- Multistage Monge Kantorovich Problem applied to optimal ecological transition. Clara Macedo Lage, Emmanuel Gobet.
+- [Multistage Monge Kantorovich Problem applied to optimal ecological transition](https://hal.archives-ouvertes.fr/hal-03423114). Clara Macedo Lage, Emmanuel Gobet.
 - Measuring association with Wasserstein distances. Johannes Wiesel
 - Dual Regularized Optimal Transport. Rishi Sonthalia, Anna Gilbert
 - [Towards interpretable contrastive word mover's embedding](https://arxiv.org/pdf/2111.01023.pdf). Ruijie Jiang, Julia Gouvea, Eric Miller, David Hammer, Shuchin Aeron
