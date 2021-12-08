@@ -103,11 +103,11 @@ theoretical advances, innovative efficient numerical solvers and successful appl
     <td class="tg-0pky">Plenary Speaker</td>
     <td class="tg-0pky">Lenaic Chizat</td>
     <td class="tg-0pky"><details>
-    <summary>The squared 2-Wasserstein distance is a natural loss to compare probability distributions in generative models or density fitting tasks thanks to its « informative »  gradient, but this loss suffers from a poor sample and computational complexity compared to alternative losses such as kernel MMD. Adding an entropic regularization and debiaising the resulting quantity (yielding the Sinkhorn divergence) mitigates these downsides  but also leads to a degradation of the discriminative power of the loss and of the quality of its gradients.  
-
-In order to understand the trade-offs at play, we propose to study entropic regularization as one typically studies regularization in Machine Learning: by discussing the optimization, estimation and approximation errors, and their trade-offs, covering in passing a variety of recent works in the field. The analysis, complemented with numerical experiments, suggests that entropic regularization actually improves the quality and efficiency of the estimation of the squared 2-Wasserstein distance, compared to the plug-in (i.e unregularized) estimator.</summary>
+    <summary>Entropic Regularization of Optimal Transport as a Statistical Regularization</summary>
     <br>
-    ...
+The squared 2-Wasserstein distance is a natural loss to compare probability distributions in generative models or density fitting tasks thanks to its « informative »  gradient, but this loss suffers from a poor sample and computational complexity compared to alternative losses such as kernel MMD. Adding an entropic regularization and debiaising the resulting quantity (yielding the Sinkhorn divergence) mitigates these downsides  but also leads to a degradation of the discriminative power of the loss and of the quality of its gradients.  
+
+In order to understand the trade-offs at play, we propose to study entropic regularization as one typically studies regularization in Machine Learning: by discussing the optimization, estimation and approximation errors, and their trade-offs, covering in passing a variety of recent works in the field. The analysis, complemented with numerical experiments, suggests that entropic regularization actually improves the quality and efficiency of the estimation of the squared 2-Wasserstein distance, compared to the plug-in (i.e unregularized) estimator.
     </details></td>
   </tr>
   <tr>
