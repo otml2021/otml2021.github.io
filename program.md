@@ -145,9 +145,9 @@ In order to understand the trade-offs at play, we propose to study entropic regu
     <td class="tg-0pky">Keynote Speaker</td>
     <td class="tg-0pky">Pinar Demetci</td>
     <td class="tg-0pky"><details>
-    <summary>TBD</summary>
+    <summary>Enabling integrated analysis of single-cell multi-omic datasets with optimal transport</summary>
     <br>
-    ...
+    In this work, I will present an application of optimal transport to integrate multi-modal biological datasets. Cells in multicellular organisms specialize to carry out different functions despite having the same genetic material. This is thanks to cell-type-specific gene regulation and misregulation of genes can result in disease. With today’s sequencing technologies, we can take measurements at the single-cell resolution and probe different aspects of the genome that influence gene regulation, such as chemical modifications on the DNA, its 3D structure, etc. Jointly studying these measurements will give a holistic view of the regulatory mechanisms. However, with a few exceptions, applying multiple technologies on the same single cell is not possible. Then, computational integration of separately taken multi-modal genomic (“multi-omic”) measurements is crucial to enable joint analyses. This task requires an unsupervised approach due to the lack of correspondences known as a priori. We present an algorithm, Single Cell alignment with Optimal Transport (SCOT), that relies on Gromov-Wasserstein optimal transport to align single-cell multi-omic datasets. We show that SCOT yields alignments competitive with state-of-the-art and unlike previous methods, can approximately self-tune its hyperparameters by tracking the Gromov-Wasserstein distance between the aligned datasets. With its unbalanced multi-modal extension, it can integrate more than two datasets and yields quality alignments in different scenarios of disproportionate cell type representation across measurements. 
     </details></td>
   </tr>
   <tr>
