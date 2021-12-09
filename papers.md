@@ -14,7 +14,7 @@ background: '/img/color_transfer.jpg'
 #### Spotlights
 - [Optimizing Functionals on the Space of Probabilities with Input Convex Neural Network](https://arxiv.org/pdf/2106.00774.pdf). David Alvarez-Melis, Yair Schiff, Youssef Mroueh
 - [Learning Revenue-Maximizing Auctions With Differentiable Matching](https://arxiv.org/pdf/2106.07877.pdf). Michael Curry, Uro Cornelius Lyi, Tom Goldstein, John P Dickerson
-- Factored couplings in multi-marginal optimal transport via difference of convex programming. Quang Huy Huy, Hicham Janati, Ievgen Redko, Rémi Flamary, Nicolas Courty
+- Factored couplings in multi-marginal optimal transport via difference of convex programming. Quang Huy Tran, Hicham Janati, Ievgen Redko, Rémi Flamary, Nicolas Courty
 - Sinkhorn EM: An Expectation-Maximization algorithm based on entropic optimal transport. Gonzalo E. Mena, Amin Nejatbakhsh, Erdem Varol, Jonathan Niles-Weed
 - Subspace Detours Meet Gromov-Wasserstein. Clément Bonet, Nicolas Courty, Fançois Septier, Lucas Drumetz
 - Input Convex Gradient Networks. Jack Richter-Powell, Jonathan Peter Lorraine, Brandon Amos
