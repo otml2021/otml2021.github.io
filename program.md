@@ -54,7 +54,7 @@ theoretical advances, innovative efficient numerical solvers and successful appl
     <td class="tg-btxf">14:45 : 15:00</td>
     <td class="tg-btxf">08:45 : 09:00</td>
     <td class="tg-btxf">Oral</td>
-    <td class="tg-btxf">Danilo Jimenez Rezende</td>
+    <td class="tg-btxf">Danilo J. Rezende, Sebastien Racaniere</td>
     <td class="tg-btxf"><details>
     <summary>Implicit Riemannian Concave Potential Maps</summary>
     <br>
@@ -173,8 +173,8 @@ In order to understand the trade-offs at play, we propose to study entropic regu
     </details></td>
   </tr>
   <tr>
-    <td class="tg-btxf">20:40 : 21:20</td>
-    <td class="tg-btxf">14:40 : 15:20</td>
+    <td class="tg-btxf">20:55 : 21:20</td>
+    <td class="tg-btxf">14:55 : 15:20</td>
     <td class="tg-btxf">Keynote Speaker</td>
     <td class="tg-btxf">Yunan Yang</td>
     <td class="tg-btxf"><details>
