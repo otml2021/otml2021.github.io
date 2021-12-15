@@ -33,6 +33,14 @@ The format of the workshop will encourage **discussion** and **presentation of c
 - [Yongxin Chen](https://yongxin.ae.gatech.edu) (Georgia Tech)
 - [Yunan Yang](https://cims.nyu.edu/~yy38/) (Courant)
 
+## Awards
+#####  Best paper award
+- [Discrete Schrödinger Bridges with Applications to Two-Sample Homogeneity Testing](https://langliu95.github.io/files/OTML2021-eot.pdf). Zaid Harchaoui, Lang Liu, Soumik Pal
+
+#####  Runner up awards
+- [Entropic estimation of optimal transport maps](https://arxiv.org/abs/2109.12004?context=stat). Aram-Alexandre Pooladian, Jonathan Niles-Weed
+- [Implicit Riemannian Concave Potential Maps](https://www.arxiv-vanity.com/papers/2110.01288/). Danilo Jimenez Rezende, Sebastien Racaniere
+
 
 ### Past Editions
 - [OTML'19](https://sites.google.com/view/otml2019/home)

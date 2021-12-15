@@ -4,14 +4,6 @@ title:  Optimal Transport and Machine Learning
 description: NeurIPS 2021 Workshop. 13th of December 2021
 background: '/img/color_transfer.jpg'
 ---
-## Awards
-#### Best paper award
-- [Discrete Schrödinger Bridges with Applications to Two-Sample Homogeneity Testing](https://langliu95.github.io/files/OTML2021-eot.pdf). Zaid Harchaoui, Lang Liu, Soumik Pal
-
-#### Runner up awards
-- [Entropic estimation of optimal transport maps](https://arxiv.org/abs/2109.12004?context=stat). Aram-Alexandre Pooladian, Jonathan Niles-Weed
-- [Implicit Riemannian Concave Potential Maps](https://www.arxiv-vanity.com/papers/2110.01288/). Danilo Jimenez Rezende, Sebastien Racaniere
-
 
 ## List of Accepted Papers
 #### Orals
