@@ -33,7 +33,7 @@ The format of the workshop will encourage **discussion** and **presentation of c
 - [Yongxin Chen](https://yongxin.ae.gatech.edu) (Georgia Tech)
 - [Yunan Yang](https://cims.nyu.edu/~yy38/) (Courant)
 
-## Awards
+### Awards
 #####  Best paper award
 - [Discrete Schrödinger Bridges with Applications to Two-Sample Homogeneity Testing](https://langliu95.github.io/files/OTML2021-eot.pdf). Zaid Harchaoui, Lang Liu, Soumik Pal
 
